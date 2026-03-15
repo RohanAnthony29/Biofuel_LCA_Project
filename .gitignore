@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large generated files — regenerate with run_all.py
+data/scenario_results.csv
+
+# Keep these tracked
+!data/biofuel_lca.db
+!outputs/
+!plots/

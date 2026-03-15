@@ -1,0 +1,313 @@
+feedstock_name,pathway_name,fuel_product,scenario_name,transport_distance_km,transport_mode,grid_scenario,ci_total_kg_per_mj,reduction_pct
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04283,52.72000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04247,53.13000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04357,51.91000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04325,52.26000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04283,52.72000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04247,53.13000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,"Central (80 km truck, current grid)",80,truck,current,0.02410,72.61000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02384,72.91000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02463,72.01000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02440,72.27000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,Renewable grid (80 km truck),80,truck,renewable,0.02410,72.61000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02384,72.91000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.02275,74.89000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.02235,75.33000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.02356,74.00000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.02321,74.38000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.02275,74.89000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02235,75.33000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04146,54.24000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04111,54.63000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04215,53.48000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04185,53.81000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04145,54.24000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04111,54.63000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03792,58.15000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03761,58.49000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03853,57.47000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03827,57.76000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03791,58.15000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03761,58.49000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.01019,88.42000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.01012,88.50000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01032,88.27000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01026,88.34000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.01019,88.42000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.01012,88.50000
+Switchgrass,Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00950,89.20000
+Switchgrass,Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00943,89.28000
+Switchgrass,Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.00964,89.05000
+Switchgrass,Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.00958,89.11000
+Switchgrass,Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00950,89.20000
+Switchgrass,Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00943,89.28000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.06466,26.52000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.06452,26.68000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.06494,26.21000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.06482,26.34000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.06466,26.52000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.06452,26.68000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03441,62.02000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03417,62.29000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03489,61.49000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03468,61.72000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03441,62.02000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03417,62.29000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04471,50.65000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04447,50.92000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04519,50.12000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04498,50.35000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.00601,93.37000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00577,93.63000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03930,56.62000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03896,57.00000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04000,55.85000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03970,56.18000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03930,56.62000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03896,57.00000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03600,60.26000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03569,60.60000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03662,59.58000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03636,59.87000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03600,60.26000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03569,60.60000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00977,88.90000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00971,88.97000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.00991,88.74000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.00985,88.81000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00977,88.90000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00970,88.97000
+Miscanthus,Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00908,89.68000
+Miscanthus,Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00901,89.76000
+Miscanthus,Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.00922,89.53000
+Miscanthus,Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.00916,89.59000
+Miscanthus,Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00908,89.68000
+Miscanthus,Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00901,89.76000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.06380,27.50000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.06366,27.66000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.06408,27.18000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.06396,27.32000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.06380,27.50000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.06366,27.66000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03292,63.67000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03268,63.93000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03340,63.14000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03319,63.36000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03292,63.67000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03268,63.93000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04322,52.30000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04298,52.56000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04370,51.77000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04349,52.00000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.00452,95.01000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00428,95.28000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04508,50.24000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04471,50.65000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04581,49.44000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04550,49.78000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04508,50.25000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04471,50.65000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,"Central (80 km truck, current grid)",80,truck,current,0.02571,70.79000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02545,71.08000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02623,70.19000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02601,70.44000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,Renewable grid (80 km truck),80,truck,renewable,0.02571,70.79000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02545,71.08000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.02522,72.17000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.02481,72.61000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.02602,71.28000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.02568,71.66000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.02521,72.17000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02481,72.61000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,"Central (80 km truck, current grid)",80,truck,current,0.02275,74.15000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02243,74.51000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02339,73.42000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02312,73.73000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,Renewable grid (80 km truck),80,truck,renewable,0.02275,74.15000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02243,74.51000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04518,50.13000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04483,50.51000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04587,49.37000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04558,49.69000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04518,50.13000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04483,50.51000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04123,54.49000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04092,54.83000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04184,53.82000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04158,54.11000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04123,54.50000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04092,54.83000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.01091,87.60000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.01084,87.68000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01104,87.45000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01099,87.52000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.01091,87.60000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.01084,87.68000
+Soybean Oil,Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.01023,88.37000
+Soybean Oil,Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.01016,88.45000
+Soybean Oil,Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01037,88.22000
+Soybean Oil,Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01031,88.29000
+Soybean Oil,Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.01023,88.37000
+Soybean Oil,Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.01016,88.45000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.06615,24.83000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.06601,24.98000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.06643,24.51000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.06631,24.65000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.06615,24.83000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.06601,24.98000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03699,59.18000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03675,59.44000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03747,58.65000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03726,58.87000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03699,59.18000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03675,59.44000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04729,47.81000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04705,48.07000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04777,47.28000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04756,47.50000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.00859,90.52000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00835,90.79000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04041,55.39000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04007,55.78000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04111,54.63000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04081,54.96000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04041,55.39000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04007,55.78000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03699,59.17000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03668,59.51000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03760,58.49000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03734,58.78000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03699,59.17000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03668,59.51000
+Camelina,Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00999,88.65000
+Camelina,Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00992,88.73000
+Camelina,Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01012,88.50000
+Camelina,Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01006,88.56000
+Camelina,Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00999,88.65000
+Camelina,Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00992,88.73000
+Camelina,Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00930,89.43000
+Camelina,Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00923,89.51000
+Camelina,Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.00943,89.28000
+Camelina,Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.00938,89.35000
+Camelina,Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00930,89.43000
+Camelina,Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00923,89.51000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.06424,26.99000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.06411,27.15000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.06452,26.68000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.06440,26.81000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.06424,26.99000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.06411,27.15000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03369,62.82000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03345,63.08000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03417,62.29000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03396,62.52000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03369,62.82000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03345,63.08000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04399,51.45000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04375,51.71000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04447,50.92000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04426,51.15000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.00529,94.17000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00505,94.43000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.10834,-19.58000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.10799,-19.19000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.10903,-20.34000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.10873,-20.01000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.10834,-19.58000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.10799,-19.19000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.09736,-7.47000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.09706,-7.13000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.09798,-8.15000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.09772,-7.86000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.09736,-7.47000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.09706,-7.13000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.02313,73.71000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02307,73.79000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02327,73.56000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02321,73.63000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.02313,73.71000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02307,73.79000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.02259,74.33000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02252,74.41000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02272,74.18000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02267,74.24000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.02259,74.33000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02252,74.41000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.09141,-3.88000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.09128,-3.72000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.09169,-4.19000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.09157,-4.06000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.09141,-3.88000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.09128,-3.72000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.08071,10.92000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.08047,11.18000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.08119,10.39000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.08098,10.61000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.08071,10.92000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.08047,11.18000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.09101,-0.45000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.09077,-0.19000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.09149,-0.98000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.09128,-0.76000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.05231,42.26000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.05207,42.53000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04387,51.58000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04352,51.96000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04456,50.82000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04426,51.14000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04387,51.58000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04352,51.97000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04006,55.79000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03975,56.12000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04067,55.11000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04041,55.40000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04006,55.79000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03975,56.13000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.01065,87.89000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.01059,87.97000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01079,87.74000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01073,87.81000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.01065,87.89000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.01059,87.97000
+Corn Grain,Camelina → HEFA-SAF,SAF,"Central (80 km truck, current grid)",80,truck,current,0.00997,88.67000
+Corn Grain,Camelina → HEFA-SAF,SAF,"Near   (40 km truck, current grid)",40,truck,current,0.00991,88.74000
+Corn Grain,Camelina → HEFA-SAF,SAF,"Far   (160 km truck, current grid)",160,truck,current,0.01011,88.51000
+Corn Grain,Camelina → HEFA-SAF,SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.01005,88.58000
+Corn Grain,Camelina → HEFA-SAF,SAF,Renewable grid (80 km truck),80,truck,renewable,0.00997,88.67000
+Corn Grain,Camelina → HEFA-SAF,SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00991,88.74000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Central (80 km truck, current grid)",80,truck,current,0.06563,25.42000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.06549,25.58000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.06590,25.11000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.06578,25.24000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,Renewable grid (80 km truck),80,truck,renewable,0.06563,25.42000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.06549,25.58000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.03608,60.18000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.03584,60.44000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03656,59.65000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.03635,59.88000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.03608,60.18000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.03584,60.45000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04638,48.81000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04614,49.08000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04686,48.28000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04665,48.51000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.00768,91.53000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.00744,91.79000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.04893,45.99000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.04856,46.40000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.04966,45.18000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.04935,45.53000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.04893,45.99000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.04856,46.40000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,"Central (80 km truck, current grid)",80,truck,current,0.02847,67.65000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,"Near   (40 km truck, current grid)",40,truck,current,0.02820,67.95000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,"Far   (160 km truck, current grid)",160,truck,current,0.02899,67.06000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,"Rail  (400 km rail,  current grid)",400,rail,current,0.02877,67.31000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,Renewable grid (80 km truck),80,truck,renewable,0.02847,67.65000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02820,67.95000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Central (80 km truck, current grid)",80,truck,current,0.02944,67.51000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Near   (40 km truck, current grid)",40,truck,current,0.02904,67.95000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Far   (160 km truck, current grid)",160,truck,current,0.03024,66.62000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Rail  (400 km rail,  current grid)",400,rail,current,0.02990,67.00000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,Renewable grid (80 km truck),80,truck,renewable,0.02944,67.51000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,"Optimistic (40 km, renewable grid)",40,truck,renewable,0.02904,67.95000

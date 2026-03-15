@@ -1,0 +1,14 @@
+id,parameter,value,unit,source_label
+1,N2O emission factor (fertilizer),0.01,kg N2O / kg N applied,[M] IPCC 2006 Tier 1
+2,N2O GWP100 (AR5),265.0,kg CO2e / kg N2O,[M] IPCC AR5 2013
+3,Diesel combustion EF,0.0741,kg CO2e / MJ diesel,[M] GREET 2024 Table 1.1
+4,Natural gas combustion EF,0.0562,kg CO2e / MJ NG,[M] GREET 2024 Table 1.2
+5,US grid electricity EF (2023),0.1432,kg CO2e / MJ electricity,[M] EPA eGRID 2023 national avg
+6,Renewable electricity EF,0.005,kg CO2e / MJ electricity,[L] NREL ATB 2024 wind/solar
+7,Field operations diesel,2.8,L diesel / dry tonne biomass,[L] GREET 2024 Table 3.2
+8,Ethanol combustion CO2,0.0,kg fossil CO2e / MJ ethanol,[M] Biogenic carbon neutral — GREET
+9,SAF combustion CO2,0.0,kg fossil CO2e / MJ SAF,[M] Biogenic carbon neutral — GREET
+10,Jet fuel (fossil) combustion CO2,0.0715,kg CO2e / MJ Jet-A,[M] GREET 2024 Jet-A baseline
+11,Gasoline (fossil) combustion CO2,0.0736,kg CO2e / MJ gasoline,[M] GREET 2024 gasoline baseline
+12,Biomass drying energy (NG),1.15,MJ NG / kg water removed,[L] GREET 2024 preprocessing
+13,Biomass grinding electricity,0.05,MJ electricity / dry tonne,[L] GREET 2024 preprocessing

@@ -1,0 +1,313 @@
+Feedstock,Pathway,Fuel,Stage,CI (kg CO2e/MJ),Share of Total %
+Miscanthus,Camelina → HEFA-SAF,SAF,1. Cultivation,0.00037,4.09647
+Miscanthus,Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,2.22442
+Miscanthus,Camelina → HEFA-SAF,SAF,3. Transport,0.00014,1.48662
+Miscanthus,Camelina → HEFA-SAF,SAF,4. Preprocessing,0.00017,1.89406
+Miscanthus,Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,90.29843
+Miscanthus,Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Camelina,Camelina → HEFA-SAF,SAF,1. Cultivation,0.00076,8.18456
+Camelina,Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,2.17251
+Camelina,Camelina → HEFA-SAF,SAF,3. Transport,0.00014,1.45193
+Camelina,Camelina → HEFA-SAF,SAF,4. Preprocessing,0.00000,0.00000
+Camelina,Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,88.19101
+Camelina,Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Switchgrass,Camelina → HEFA-SAF,SAF,1. Cultivation,0.00086,9.06125
+Switchgrass,Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,2.12587
+Switchgrass,Camelina → HEFA-SAF,SAF,3. Transport,0.00014,1.42075
+Switchgrass,Camelina → HEFA-SAF,SAF,4. Preprocessing,0.00010,1.09451
+Switchgrass,Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,86.29762
+Switchgrass,Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00037,3.76586
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,2.04666
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,1.37126
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.00017,1.73966
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,91.07655
+Miscanthus,Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Corn Grain,Camelina → HEFA-SAF,SAF,1. Cultivation,0.00132,13.25446
+Corn Grain,Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,2.02527
+Corn Grain,Camelina → HEFA-SAF,SAF,3. Transport,0.00014,1.35352
+Corn Grain,Camelina → HEFA-SAF,SAF,4. Preprocessing,0.00012,1.15300
+Corn Grain,Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,82.21376
+Corn Grain,Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Camelina,Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00075,7.53980
+Camelina,Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,2.00260
+Camelina,Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,1.34174
+Camelina,Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.00000,0.00000
+Camelina,Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,89.11585
+Camelina,Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00085,8.36278
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,1.96309
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,1.31527
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.00010,1.00118
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,87.35768
+Switchgrass,Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Soybean Oil,Camelina → HEFA-SAF,SAF,1. Cultivation,0.00163,15.96129
+Soybean Oil,Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,1.97439
+Soybean Oil,Camelina → HEFA-SAF,SAF,3. Transport,0.00014,1.31952
+Soybean Oil,Camelina → HEFA-SAF,SAF,4. Preprocessing,0.00006,0.59623
+Soybean Oil,Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,80.14857
+Soybean Oil,Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00131,12.27593
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,1.87705
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,1.25763
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.00011,1.06053
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,83.52886
+Corn Grain,Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00162,14.81346
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,1.83335
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,1.22834
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.00006,0.55000
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,81.58401
+Soybean Oil,Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,1. Cultivation,0.00000,0.00000
+Algae (Raceway),Camelina → HEFA-SAF,SAF,2. Harvesting,0.00020,0.89432
+Algae (Raceway),Camelina → HEFA-SAF,SAF,3. Transport,0.00014,0.59769
+Algae (Raceway),Camelina → HEFA-SAF,SAF,4. Preprocessing,0.01405,62.20392
+Algae (Raceway),Camelina → HEFA-SAF,SAF,5. Conversion,0.00820,36.30407
+Algae (Raceway),Camelina → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,1. Cultivation,0.00000,0.00000
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,2. Harvesting,0.00095,4.18480
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,3. Transport,0.00064,2.80891
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,4. Preprocessing,0.00166,7.28823
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,5. Conversion,0.01950,85.71805
+Municipal Solid Waste,MSW → FT-SAF (Gasification),SAF,6. Combustion,0.00000,0.00000
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00214,9.39217
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00120,5.26524
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,3. Transport,0.00080,3.53360
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00061,2.69855
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,5. Conversion,0.01800,79.11045
+Corn Stover,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,1. Cultivation,0.00000,0.00000
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,2. Harvesting,0.00020,0.86457
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,3. Transport,0.00013,0.57926
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,4. Preprocessing,0.01390,60.08300
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,5. Conversion,0.00890,38.47318
+Algae (Raceway),Soybean Oil → HEFA-SAF,SAF,6. Combustion,0.00000,0.00000
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,1. Cultivation,0.00139,5.78790
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,2. Harvesting,0.00078,3.24454
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,3. Transport,0.00052,2.17824
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,4. Preprocessing,0.00040,1.66376
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,5. Conversion,0.02100,87.12970
+Corn Stover,Forestry Residues → FT-SAF (Gasification),SAF,6. Combustion,0.00000,0.00000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00000,0.00000
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00120,4.75114
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,3. Transport,0.00080,3.18858
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00521,20.67420
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,5. Conversion,0.01800,71.38608
+Forestry Residues,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,1. Cultivation,0.00000,0.00000
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,2. Harvesting,0.00078,3.04174
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,3. Transport,0.00052,2.04209
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,4. Preprocessing,0.00340,13.23272
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,5. Conversion,0.02100,81.68346
+Forestry Residues,Forestry Residues → FT-SAF (Gasification),SAF,6. Combustion,0.00000,0.00000
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,1. Cultivation,0.00072,2.51528
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,2. Harvesting,0.00078,2.74714
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,3. Transport,0.00052,1.84431
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,4. Preprocessing,0.00544,19.12106
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,5. Conversion,0.02100,73.77222
+Sugarcane Bagasse,Forestry Residues → FT-SAF (Gasification),SAF,6. Combustion,0.00000,0.00000
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00110,3.72635
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00120,4.06943
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,3. Transport,0.00080,2.73107
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00834,28.33316
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,5. Conversion,0.01800,61.14338
+Sugarcane Bagasse,Sugarcane Bagasse → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00132,4.00085
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,2.16903
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,1.45513
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.00061,1.84398
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,90.52798
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00269,7.99145
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,2.11957
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,1.42196
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.00000,0.00297
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,88.46405
+Camelina,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00305,8.85841
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,2.07510
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,1.39212
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.00037,1.06371
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,86.60777
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00169,4.69683
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,2.54701
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,1.70819
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00078,2.16371
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,88.88148
+Miscanthus,Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00468,12.96671
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,1.97910
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,1.32772
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.00040,1.12260
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,82.60110
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00578,15.62441
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,1.93041
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,1.29505
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.00021,0.58129
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,80.56885
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00346,9.34577
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,2.47905
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,1.66261
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00000,0.00270
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,86.50987
+Camelina,Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00391,10.32282
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,2.41850
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,1.62201
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00047,1.23958
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,84.39709
+Switchgrass,Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00190,4.84187
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,2.62575
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,1.76068
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.00088,2.23138
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,88.54286
+Miscanthus,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00601,14.99289
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,2.28912
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,1.53524
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00052,1.29809
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,79.88217
+Corn Grain,Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00389,9.62290
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,2.55357
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,1.71228
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.00000,0.00247
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,86.10877
+Camelina,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00742,17.99748
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,2.22422
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,1.49170
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.00028,0.66945
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,77.61715
+Soybean Oil,Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00440,10.62090
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,2.48939
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,1.66924
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.00053,1.27605
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,83.94442
+Switchgrass,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,1. Cultivation,0.00195,4.55012
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,2. Harvesting,0.00109,2.54938
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,3. Transport,0.00073,1.71126
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,4. Preprocessing,0.00056,1.30737
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,5. Conversion,0.03850,89.88187
+Corn Stover,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,6. Combustion,0.00000,0.00000
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00132,3.04734
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,1.65209
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,1.10833
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.00061,1.40451
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,92.78541
+Miscanthus,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00676,15.40373
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,2.35262
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,1.57753
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.00059,1.33361
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,79.33251
+Corn Grain,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00269,6.12013
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,1.62324
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,1.08898
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.00000,0.00227
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,91.16537
+Camelina,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00305,6.81757
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,1.59703
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,1.07140
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.00037,0.81865
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,89.69312
+Switchgrass,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,1. Cultivation,0.00000,0.00000
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,2. Harvesting,0.00109,2.42241
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,3. Transport,0.00073,1.62603
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,4. Preprocessing,0.00475,10.54371
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,5. Conversion,0.03850,85.40562
+Forestry Residues,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,6. Combustion,0.00000,0.00000
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00835,18.47417
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,2.28410
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,1.53158
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.00031,0.68833
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,77.02182
+Soybean Oil,Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00468,10.08690
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,1.53956
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,1.03284
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.00040,0.87328
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,86.46527
+Corn Grain,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00578,12.22112
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,1.50993
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,1.01296
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.00021,0.45467
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,84.80132
+Soybean Oil,"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,1. Cultivation,0.00100,2.04374
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,2. Harvesting,0.00109,2.23176
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,3. Transport,0.00073,1.49806
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,4. Preprocessing,0.00760,15.54261
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,5. Conversion,0.03850,78.68383
+Sugarcane Bagasse,Corn Stover → Cellulosic Ethanol (AFEX),Ethanol,6. Combustion,0.00000,0.00000
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00076,1.19277
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.64733
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.43416
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.00035,0.55015
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,97.17716
+Miscanthus,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00156,2.42198
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.64285
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.43116
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.00000,0.00000
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,96.50556
+Camelina,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00176,2.72339
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.63871
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.42838
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.00021,0.32786
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,95.88321
+Switchgrass,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00270,4.11879
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.62932
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.42209
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.00023,0.35657
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,94.47475
+Corn Grain,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00334,5.04739
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.62431
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.41873
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.00012,0.18744
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,93.72213
+Soybean Oil,Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,1. Cultivation,0.00000,0.00000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,2. Harvesting,0.00071,0.88465
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,3. Transport,0.00048,0.59348
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,4. Preprocessing,0.04972,61.59831
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,5. Conversion,0.02980,36.92231
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, NG)",Ethanol,6. Combustion,0.00000,0.00000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,1. Cultivation,0.00000,0.00000
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,2. Harvesting,0.00071,0.78453
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,3. Transport,0.00048,0.52632
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,4. Preprocessing,0.04972,54.62696
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,5. Conversion,0.04010,44.06109
+Algae (Raceway),"Corn Grain → Ethanol (Dry Mill, Electric)",Ethanol,6. Combustion,0.00000,0.00000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,1. Cultivation,0.00000,0.00000
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,2. Harvesting,0.00041,0.45179
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,3. Transport,0.00028,0.30302
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,4. Preprocessing,0.02873,31.42298
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,5. Conversion,0.06200,67.82331
+Algae (Raceway),Algae → HEFA-SAF (Wet Lipid Extraction),SAF,6. Combustion,0.00000,0.00000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,1. Cultivation,0.00000,0.00000
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,2. Harvesting,0.00092,0.94182
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,3. Transport,0.00061,0.63164
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,4. Preprocessing,0.06383,65.56052
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,5. Conversion,0.03200,32.86602
+Algae (Raceway),Miscanthus → Cellulosic Ethanol,Ethanol,6. Combustion,0.00000,0.00000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,1. Cultivation,0.00000,0.00000
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,2. Harvesting,0.00103,0.95259
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,3. Transport,0.00069,0.63875
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,4. Preprocessing,0.07181,66.28637
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,5. Conversion,0.03480,32.12229
+Algae (Raceway),Switchgrass → Cellulosic Ethanol (Dilute Acid),Ethanol,6. Combustion,0.00000,0.00000

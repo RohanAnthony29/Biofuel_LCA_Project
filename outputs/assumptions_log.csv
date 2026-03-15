@@ -1,0 +1,45 @@
+Category,Parameter,Value,Unit,Type,Source
+Feedstock,Corn Stover — yield (dry t/ha/yr),3.50000,dry t/ha/yr,L,[L] GREET 2024 Table 3.1
+Feedstock,Corn Stover — N fertilizer,5.00000,kg N / dry t biomass,L,[L] GREET 2024 Table 3.1
+Feedstock,Switchgrass — yield (dry t/ha/yr),8.00000,dry t/ha/yr,L,[L] Scown et al. 2022 / GREET 2024
+Feedstock,Switchgrass — N fertilizer,10.00000,kg N / dry t biomass,L,[L] Scown et al. 2022 / GREET 2024
+Feedstock,Miscanthus — yield (dry t/ha/yr),12.00000,dry t/ha/yr,L,[L] GREET 2024; Heaton et al. 2008
+Feedstock,Miscanthus — N fertilizer,4.00000,kg N / dry t biomass,L,[L] GREET 2024; Heaton et al. 2008
+Feedstock,Forestry Residues — yield (dry t/ha/yr),2.00000,dry t/ha/yr,L,[L] GREET 2024 Table 3.5
+Feedstock,Forestry Residues — N fertilizer,0.00000,kg N / dry t biomass,L,[L] GREET 2024 Table 3.5
+Feedstock,Municipal Solid Waste — yield (dry t/ha/yr),0.00000,dry t/ha/yr,L,[L] GREET 2024 MSW pathway
+Feedstock,Municipal Solid Waste — N fertilizer,0.00000,kg N / dry t biomass,L,[L] GREET 2024 MSW pathway
+Feedstock,Soybean Oil — yield (dry t/ha/yr),0.50000,dry t/ha/yr,M,[M] GREET 2024 Table 2.1; USDA
+Feedstock,Soybean Oil — N fertilizer,18.00000,kg N / dry t biomass,M,[M] GREET 2024 Table 2.1; USDA
+Feedstock,Camelina — yield (dry t/ha/yr),0.90000,dry t/ha/yr,L,[L] Moser 2010; GREET 2024
+Feedstock,Camelina — N fertilizer,8.00000,kg N / dry t biomass,L,[L] Moser 2010; GREET 2024
+Feedstock,Algae (Raceway) — yield (dry t/ha/yr),20.00000,dry t/ha/yr,S,[S] Davis et al. 2016 central case
+Feedstock,Algae (Raceway) — N fertilizer,0.00000,kg N / dry t biomass,S,[S] Davis et al. 2016 central case
+Feedstock,Corn Grain — yield (dry t/ha/yr),9.50000,dry t/ha/yr,M,[M] GREET 2024 Table 2.1; NASS 2023
+Feedstock,Corn Grain — N fertilizer,15.00000,kg N / dry t biomass,M,[M] GREET 2024 Table 2.1; NASS 2023
+Feedstock,Sugarcane Bagasse — yield (dry t/ha/yr),12.00000,dry t/ha/yr,L,[L] GREET 2024; Dias et al. 2012
+Feedstock,Sugarcane Bagasse — N fertilizer,2.00000,kg N / dry t biomass,L,[L] GREET 2024; Dias et al. 2012
+Conversion Pathway,Corn Stover → Cellulosic Ethanol (AFEX) — conversion efficiency,6800.00000,MJ fuel / dry t biomass,L,[L] GREET 2024 Pathway CE-01; Wyman 2013
+Conversion Pathway,Switchgrass → Cellulosic Ethanol (Dilute Acid) — conversion efficiency,7200.00000,MJ fuel / dry t biomass,L,[L] GREET 2024 Pathway CE-03; Scown et al. 2022
+Conversion Pathway,Miscanthus → Cellulosic Ethanol — conversion efficiency,8100.00000,MJ fuel / dry t biomass,L,[L] GREET 2024; Heaton et al. 2008
+Conversion Pathway,Forestry Residues → FT-SAF (Gasification) — conversion efficiency,9500.00000,MJ fuel / dry t biomass,L,[L] GREET 2024 Pathway FT-01; NREL 2011
+Conversion Pathway,MSW → FT-SAF (Gasification) — conversion efficiency,7800.00000,MJ fuel / dry t biomass,L,[L] GREET 2024 MSW-FT pathway
+Conversion Pathway,Soybean Oil → HEFA-SAF — conversion efficiency,37200.00000,MJ fuel / dry t biomass,M,[M] GREET 2024 Pathway HEFA-01; ICAO CORSIA
+Conversion Pathway,Camelina → HEFA-SAF — conversion efficiency,36800.00000,MJ fuel / dry t biomass,L,[L] GREET 2024; Shonnard et al. 2010
+Conversion Pathway,Algae → HEFA-SAF (Wet Lipid Extraction) — conversion efficiency,18000.00000,MJ fuel / dry t biomass,S,[S] Davis et al. 2016 central; GREET 2024 algae
+Conversion Pathway,"Corn Grain → Ethanol (Dry Mill, NG) — conversion efficiency",10400.00000,MJ fuel / dry t biomass,M,[M] GREET 2024 Pathway E-01; Wang et al. 2022
+Conversion Pathway,"Corn Grain → Ethanol (Dry Mill, Electric) — conversion efficiency",10400.00000,MJ fuel / dry t biomass,M,[M] GREET 2024 Pathway E-02
+Conversion Pathway,Sugarcane Bagasse → Cellulosic Ethanol — conversion efficiency,6200.00000,MJ fuel / dry t biomass,L,[L] GREET 2024; Dias et al. 2012
+Emission Factor,N2O emission factor (fertilizer),0.01000,kg N2O / kg N applied,M,[M] IPCC 2006 Tier 1
+Emission Factor,N2O GWP100 (AR5),265.00000,kg CO2e / kg N2O,M,[M] IPCC AR5 2013
+Emission Factor,Diesel combustion EF,0.07410,kg CO2e / MJ diesel,M,[M] GREET 2024 Table 1.1
+Emission Factor,Natural gas combustion EF,0.05620,kg CO2e / MJ NG,M,[M] GREET 2024 Table 1.2
+Emission Factor,US grid electricity EF (2023),0.14320,kg CO2e / MJ electricity,M,[M] EPA eGRID 2023 national avg
+Emission Factor,Renewable electricity EF,0.00500,kg CO2e / MJ electricity,L,[L] NREL ATB 2024 wind/solar
+Emission Factor,Field operations diesel,2.80000,L diesel / dry tonne biomass,L,[L] GREET 2024 Table 3.2
+Emission Factor,Ethanol combustion CO2,0.00000,kg fossil CO2e / MJ ethanol,M,[M] Biogenic carbon neutral — GREET
+Emission Factor,SAF combustion CO2,0.00000,kg fossil CO2e / MJ SAF,M,[M] Biogenic carbon neutral — GREET
+Emission Factor,Jet fuel (fossil) combustion CO2,0.07150,kg CO2e / MJ Jet-A,M,[M] GREET 2024 Jet-A baseline
+Emission Factor,Gasoline (fossil) combustion CO2,0.07360,kg CO2e / MJ gasoline,M,[M] GREET 2024 gasoline baseline
+Emission Factor,Biomass drying energy (NG),1.15000,MJ NG / kg water removed,L,[L] GREET 2024 preprocessing
+Emission Factor,Biomass grinding electricity,0.05000,MJ electricity / dry tonne,L,[L] GREET 2024 preprocessing
