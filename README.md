@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project computes the **carbon intensity (kg CO₂e / MJ fuel)** of 11 biofuel conversion pathways across 10 feedstocks and 6 transport/grid scenarios — totalling **312 scenario runs**. It follows a GREET-style LCA framework consistent with work from Argonne National Laboratory and Berkeley Lab (Scown group).
+This project computes the **carbon intensity (kg CO₂e / MJ fuel)** of 11 biofuel conversion pathways across 10 feedstocks and 6 transport/grid scenarios — totalling **312 scenario runs**. .
 
 **Functional unit:** kg CO₂e per MJ of fuel produced  
 **System boundary:** Cradle-to-fuel (feedstock cultivation → conversion) + combustion  
