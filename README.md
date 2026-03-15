@@ -1,4 +1,4 @@
-# Biofuel Life Cycle Assessment — Carbon Intensity Analysis
+# Biofuel Life Cycle Assessment Carbon Intensity Analysis
 ### Cradle-to-Fuel / Well-to-Wheel GHG Analysis | GREET-Style Framework
 
 ---
